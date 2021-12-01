@@ -1,0 +1,24 @@
+.heading{
+    width:80%;
+    font-size:22px;
+}
+body{
+    background: linear-gradient(lavenderblush, lightyellow);
+}
+.hr1{
+background-color:pink;
+}
+.hr2{
+    background-color:rgb(0, 0, 0);
+}
+.hr3{
+    background-color:pink;
+}
+.hr4{
+    background-color:rgb(0, 0, 0);
+}
+.hr5{
+    background-color:pink;
+}
+
+
